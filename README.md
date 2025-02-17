@@ -8,7 +8,7 @@ Save contacts to a file
 Load contacts from a file
 
   private List<Contacts> contacts = new List<Contacts>();
-        string filePath = @"C:\Users\boydd\OneDrive\Desktop\Angula\Contacts.txt";
+        string filePath = @"Your directory";
 
         public void AddContact(string name,string phoneNumber,string email) 
         {
